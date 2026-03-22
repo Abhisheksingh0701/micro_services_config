@@ -3,7 +3,10 @@ server:
 
 spring:
   application:
-    name: CITIZEN-SERVICE		
+    name: CITIZEN-SERVICE
+
+  custom:
+    message: "User Service Config"
 
 eureka:
   instance:
