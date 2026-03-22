@@ -2,11 +2,8 @@ server:
   port: 8081
 
 spring:
-  application:
-    name: CITIZEN-SERVICE
-
   custom:
-    message: "User Service Config"
+    message: "User Service default Config"
 
 eureka:
   instance:
