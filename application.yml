@@ -1,1 +1,3 @@
-app
+spring:
+  application:
+    name: TEST
